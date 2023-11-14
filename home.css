@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+button{
+    color: rgb(12, 12, 12);
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   margin-left: 45%;
+   width: 215px;
+   height: 150px;
+   font-size: 50px;
+}
+
+a{
+    margin-left: 38%;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height: 800px;
+    
+}
+
